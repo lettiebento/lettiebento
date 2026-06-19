@@ -11,9 +11,8 @@
 ## 💫 Sobre mim
 
 - 🎓 Estudante de Engenharia de Software na **UTFPR**
+- 🎓 Estudante de Educação Fisica na **Unicesumar**
 - 💻 Interesse em **Desenvolvimento Web, Java, POO e Banco de Dados**
-- 🌱 Atualmente estudando **POO 2, Web Back-End e Estratégias de Inovação**
-- ✨ Buscando criar projetos organizados, funcionais e visualmente bonitos
 
 ---
 
@@ -30,14 +29,6 @@
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lettiebento&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lettiebento&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
----
-
-## 🏆 Conquistas
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lettiebento&theme=radical&row=1&column=6" />
 </div>
 
 ---
