@@ -41,8 +41,6 @@
 
 ---
 
-## 🐍 Cobrinha das contribuições
-
 <div align="center">
 
 <picture>
