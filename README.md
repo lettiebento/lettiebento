@@ -1,16 +1,87 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**lettiebento/lettiebento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Oii, eu sou a Letícia 👩‍💻
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Estudante+de+Engenharia+de+Software;Desenvolvimento+Web+%7C+Java+%7C+POO;Banco+de+Dados+%7C+Front-End+%7C+Back-End;Sempre+aprendendo+e+criando+novos+projetos+%F0%9F%92%96" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 💫 Sobre mim
+
+- 🎓 Estudante de Engenharia de Software na **UTFPR**
+- 💻 Interesse em **Desenvolvimento Web, Java, POO e Banco de Dados**
+- 🌱 Atualmente estudando **POO 2, Web Back-End e Estratégias de Inovação**
+- ✨ Buscando criar projetos organizados, funcionais e visualmente bonitos
+
+---
+
+## 🚀 Tecnologias
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,python,mysql,git,github,vscode,figma" />
+</div>
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lettiebento&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lettiebento&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+---
+
+## 🏆 Conquistas
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lettiebento&theme=radical&row=1&column=6" />
+</div>
+
+---
+
+## 📈 Atividade
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lettiebento&theme=react-dark&hide_border=true" />
+</div>
+
+---
+
+## 🐍 Cobrinha das contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lettiebento/lettiebento/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lettiebento/lettiebento/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lettiebento/lettiebento/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## 📌 Projetos em destaque
+
+- [Gerenciamento de Voluntários](https://github.com/lettiebento/gerenciamento-voluntarios)
+- [Seu segundo projeto aqui](https://github.com/lettiebento)
+- [Seu terceiro projeto aqui](https://github.com/lettiebento)
+
+---
+
+## 📫 Onde me encontrar
+
+<div align="center">
+  <a href="mailto:SEUEMAILAQUI">
+    <img src="https://img.shields.io/badge/Gmail-2F2F2F?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="SEU_LINKEDIN_AQUI">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="SEU_INSTAGRAM_AQUI">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</div>
