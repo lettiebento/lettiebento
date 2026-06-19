@@ -12,7 +12,6 @@
 
 - 🎓 Estudante de Engenharia de Software na **UTFPR**
 - 🎓 Estudante de Educação Fisica na **Unicesumar**
-- 💻 Interesse em **Desenvolvimento Web, Java, POO e Banco de Dados**
 
 ---
 
