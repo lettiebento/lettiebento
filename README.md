@@ -2,7 +2,7 @@
 
 # Oii, eu sou a Letícia 👩‍💻
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Estudante+de+Engenharia+de+Software;Desenvolvimento+Web+%7C+Java+%7C+POO;Banco+de+Dados+%7C+Front-End+%7C+Back-End;Sempre+aprendendo+e+criando+novos+projetos+%F0%9F%92%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Estudante+de+Engenharia+de+Software;Sempre+aprendendo+e+criando+novos+projetos+%F0%9F%92%96" alt="Typing SVG" />
 
 </div>
 
