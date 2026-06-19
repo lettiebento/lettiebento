@@ -33,14 +33,6 @@
 
 ---
 
-## 📈 Atividade
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lettiebento&theme=react-dark&hide_border=true" />
-</div>
-
----
-
 <div align="center">
 
 <picture>
