@@ -53,14 +53,6 @@
 
 ---
 
-## 📌 Projetos em destaque
-
-- [Gerenciamento de Voluntários](https://github.com/lettiebento/gerenciamento-voluntarios)
-- [Seu segundo projeto aqui](https://github.com/lettiebento)
-- [Seu terceiro projeto aqui](https://github.com/lettiebento)
-
----
-
 ## 📫 Onde me encontrar
 
 <div align="center">
